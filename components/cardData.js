@@ -24,6 +24,11 @@ const cardData = [
         favDomain: "Operating System",
         link: "https://github.com/SOURHEAD"
       },
+    {
+        name: "t.e_.n._e.t",
+        favDomain: "Web3",
+        link: "https://github.com/mrswastik-robot"
+    },
     
     // Add more card objects here
   ];
