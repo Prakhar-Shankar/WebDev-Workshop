@@ -6,7 +6,7 @@ function CardList() {
   return (
     <div className="ml-16 mt-[10rem] flex gap-10">
       {cardData.map((card, index, link) => (
-        <Card key={index} title={card.domain} description={card.name} link={card.link}/>
+        <Card key={index} title={card.name} description={card.favDomain} link={card.link}/>
       ))}
     </div>
   );
