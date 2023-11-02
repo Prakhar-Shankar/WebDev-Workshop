@@ -1,4 +1,12 @@
 // cardData.js
+
+//Use this template to mark your attendence.
+    // {
+    //   name: "YOUR NAME",
+    //   favDomain: "WHAT ARE YOUR INTRESTS",
+    //   link: "GITHUB LINK "
+      
+    // },
 const cardData = [
     {
       name: "Prakhar Shankar",
