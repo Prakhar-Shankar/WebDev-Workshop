@@ -2,7 +2,8 @@ import React from 'react';
 
 function Card({ title, description, link }: {title:any, description:any, link:any}) {
   return (
-    <div className="hover:scale-110 max-w-sm border rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 duration-700 hover:shadow-blue-400 hover:shadow-xl shadow-blue-400 shadow-lg">
+
+    <div className="hover:scale-110 max-w-sm border rounded-lg  dark:bg-gray-800 dark:border-gray-700 duration-700 hover:shadow-blue-400 hover:shadow-xl shadow-blue-400 shadow-lg">
       <div className="px-5 pb-5">
         <h5 className="text-xl font-semibold tracking-tight text-gray-900 dark:text-white pt-3">
           {title}
