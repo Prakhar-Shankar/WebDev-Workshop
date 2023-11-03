@@ -37,7 +37,14 @@ const cardData = [
       
     },
     
-    // Add more card objects here
+        {
+      name: " Himanshu kuamr",
+      favDomain: "Web development",
+      link: "https://github.com/himansh2506"
+      
+    },
+    
+    
   ];
   
   export default cardData;
