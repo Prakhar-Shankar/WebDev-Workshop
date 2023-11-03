@@ -29,8 +29,10 @@ const cardData = [
         favDomain: "Web3",
         link: "https://github.com/mrswastik-robot"
     },
-    
-    // Add more card objects here
+      name: "Himanshu kumar",
+      favDomain: "Dev-ops",
+      link: "https://github.com/himansh2506"
+    }, Add more card objects here
   ];
   
   export default cardData;
