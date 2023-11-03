@@ -29,6 +29,13 @@ const cardData = [
         favDomain: "Web3",
         link: "https://github.com/mrswastik-robot"
     },
+
+        {
+      name: " isha ananya",
+      favDomain: "Web development",
+      link: "https://github.com/isha-shukla31"
+      
+    },
     
     // Add more card objects here
   ];
