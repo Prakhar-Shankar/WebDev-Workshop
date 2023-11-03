@@ -49,14 +49,12 @@ const cardData = [
       link: "https://github.com/prachi0625"
       
     },
-    {
-      name: "Sameer Verma",
-      favDomain: "Web development",
-      link: "https://github.com/samvam69"
-      
-    },
-    
      {
+      name: "CHAITANY",
+      favDomain: "Web dev",
+      link: "https://github.com/GODINFINITY17"
+     },
+  {
         name: "HARSH KUMAR",
         favDomain: "WEB DEV",
         link: "https://github.com/Mugiwara-18"
