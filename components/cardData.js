@@ -30,7 +30,6 @@ const cardData = [
         link: "https://github.com/mrswastik-robot"
     },
 
-
         {
       name: " isha ananya",
       favDomain: "Web development",
@@ -61,7 +60,14 @@ const cardData = [
         name: "HARSH KUMAR",
         favDomain: "WEB DEV",
         link: "https://github.com/Mugiwara-18"
+
     },
+   {
+        name: "Homi Nakra",
+        favDomain: "WebDev",
+        link: "https://github.com/Hominakra"
+},
+
     
   ];
   
