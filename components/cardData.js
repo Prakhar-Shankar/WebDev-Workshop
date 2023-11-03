@@ -43,13 +43,14 @@ const cardData = [
       link: "https://github.com/himansh2506"
       
     },
-    
-          {
-      name: "Prachi Bhagt",
+    {
+      name: "Prachi Bhagat",
       favDomain: "Web development",
       link: "https://github.com/prachi0625"
       
     },
+    
+    
   ];
   
   export default cardData;
