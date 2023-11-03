@@ -44,7 +44,12 @@ const cardData = [
       
     },
     
-    
+          {
+      name: "Prachi Bhagt",
+      favDomain: "Web development",
+      link: "https://github.com/prachi0625"
+      
+    },
   ];
   
   export default cardData;
