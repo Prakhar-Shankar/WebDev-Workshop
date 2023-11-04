@@ -1,6 +1,14 @@
-Vercel Link - [Click to see the deployed site](https://web-dev-workshop-nine.vercel.app/)
+This repository is designed for a hands-on Next.js workshop where newbies can learn the basics of Next.js and Git by making simple changes to a Next.js template. Participants will update their name, favorite domain, and GitHub profile link in the template. This README provides a step-by-step guide to get started with the workshop.
+
+![image](https://github.com/Prakhar-Shankar/WebDev-Workshop/assets/97254881/5aaf8e0a-5da2-4528-9f30-e6a04338b95c)
+
+
+## Vercel Link - [Click to see the deployed site](https://web-dev-workshop-nine.vercel.app/)
+
+## You can download the slides - [Download](https://drive.google.com/file/d/1giPT5QMajmhxrhJyXyfwEmFDn5wU3UAr/view?usp=sharing)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 
 ## Getting Started
 
